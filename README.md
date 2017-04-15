@@ -1,5 +1,7 @@
 # social-media-strategy
 This is a template for developing a social media strategy. Consider this a living document that should be revisited and refined periodically. 
+## How to use this
+Create a GitHub account, fork this, and make it your own. Alternately, you can copy the template and work with it in your website, content management system or your favorite text creation tool.
 ## The Big Picture
 * Why follow us
 * Where to follow us

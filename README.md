@@ -16,4 +16,6 @@ This is a template for developing a social media strategy. Consider this a livin
 * Posting Personnel: 
 
 ## Acknowledgements
-This social media strategy template is based on [Montana State University Library's Social Media Guide](http://www.lib.montana.edu/about/social-media/).
+This social media strategy template is based on [Montana State University Library's Social Media Guide](http://www.lib.montana.edu/about/social-media/). 
+### Learn more about the MSU Library process
+Read the article [Building Library Community Through Social Media](http://scholarworks.montana.edu/xmlui/handle/1/9112) by Doralyn Rossmann and Scott W.H. Young.

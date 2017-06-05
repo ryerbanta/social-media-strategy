@@ -1,4 +1,4 @@
-# social-media-strategy
+# Social Media Strategy Template
 This is a template for developing a social media strategy. Consider this a living document that should be revisited and refined periodically. 
 ## How to use this
 Make a copy of this template, bring your social media team together, and brainstorm to develop answers to these prompts. Consider posting your social media strategy on your website, or at least somewhere where the team can use to guide their work.

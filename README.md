@@ -19,14 +19,14 @@ Make a copy of this template, bring your social media team together, and brainst
 * Assessment:
 ## Example Platform Strategy
 Here's an example of a Twitter strategy from [Montana State University Library's Social Media Guide](http://www.lib.montana.edu/about/social-media/). 
-* Community Focus: Undergraduate and graduate students; MSU Faculty members; other MSU units/departments; library and information professionals and organizations
-* Goal: Build an online community of library-supporters via social media engagement, accomplished through regular interactions with students and others on Twitter; form partnerships through mutual support of other MSU entities via Twitter; engage and connect with other libraries, librarians, library organizations; Increase awareness of library services, resources.
-* Values: Availability to help students; care/concern for followers; professional engagement; scholarly research; specialized library services and resources
-* Activity Focus: Emphasis information sharing and social interaction
-* Tone and Tenor: Welcoming, warm, cheerful, energetic
-* Posting Frequency: daily at a minimum, with regular monitoring of subsequent interactions; no automatic posting; tailor wording of posts for community and 140-character limitations; commenting on other's Twitter posts, retweeting, and favoriting as appropriate
-* Posting Categories: Events, news and other content that focuses on matters important to students who use the library, Blog posts, New databases, current databases and guides, ask-a-librarian, information & data & scholarly communication news, Rufus the library bobcat, Vine videos
-* Assessment: Tracking interactions through Twitter Analytics, Google Analytics, focus groups
+* _Community Focus:_ Undergraduate and graduate students; MSU Faculty members; other MSU units/departments; library and information professionals and organizations
+* _Goal:_ Build an online community of library-supporters via social media engagement, accomplished through regular interactions with students and others on Twitter; form partnerships through mutual support of other MSU entities via Twitter; engage and connect with other libraries, librarians, library organizations; Increase awareness of library services, resources.
+* _Values:_ Availability to help students; care/concern for followers; professional engagement; scholarly research; specialized library services and resources
+* _Activity Focus:_ Emphasis information sharing and social interaction
+* _Tone and Tenor:_ Welcoming, warm, cheerful, energetic
+* _Posting Frequency:_ daily at a minimum, with regular monitoring of subsequent interactions; no automatic posting; tailor wording of posts for community and 140-character limitations; commenting on other's Twitter posts, retweeting, and favoriting as appropriate
+* _Posting Categories:_ Events, news and other content that focuses on matters important to students who use the library, Blog posts, New databases, current databases and guides, ask-a-librarian, information & data & scholarly communication news, Rufus the library bobcat, Vine videos
+* _Assessment:_ Tracking interactions through Twitter Analytics, Google Analytics, focus groups
 ## Acknowledgements
 This social media strategy template is based on [Montana State University Library's Social Media Guide](http://www.lib.montana.edu/about/social-media/). 
 ### Learn more about the MSU Library process
